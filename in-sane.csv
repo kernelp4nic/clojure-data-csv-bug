@@ -1,0 +1,448 @@
+ID;PROVINCIA;LOCALIDAD
+1000;Montevideo;Puerto
+1001;Montevideo;Ciudad Vieja
+1002;Montevideo;Centro
+1003;Montevideo;Barrio Sur
+1004;Montevideo;Cordon
+1005;Montevideo;Palermo
+1006;Montevideo;Parque Rodo
+1007;Montevideo;Pocitos
+1008;Montevideo;Punta Carretas
+1009;Montevideo;Malvin Norte
+1010;Montevideo;Union
+1011;Montevideo;Punta Gorda
+1012;Montevideo;Malvin
+1013;Montevideo;Carrasco Norte
+1014;Montevideo;Carrasco
+1015;Montevideo;La Blanqueada
+1016;Montevideo;Buceo
+1017;Montevideo;Pque Batlle Villa Dolores
+1018;Montevideo;Larrañaga
+1019;Montevideo;Aires Puros
+1020;Montevideo;Prado Nueva Savona
+1021;Montevideo;Brazo Oriental
+1022;Montevideo;Atahualpa
+1023;Montevideo;La Comercial
+1024;Montevideo;Figurita
+1025;Montevideo;Capurro Bella Vista
+1026;Montevideo;Jacinto Vera
+1027;Montevideo;Aguada
+1028;Montevideo;Reducto
+1029;Montevideo;Tres Cruces
+1030;Montevideo;Villa Muñoz Retiro
+1031;Montevideo;Belvedere
+1032;Montevideo;Tres Ombues Pblo Victoria
+1033;Montevideo;La Teja
+1034;Montevideo;Nuevo Paris
+1035;Montevideo;Ituzaingo
+1036;Montevideo;Castro Castellanos
+1037;Montevideo;Mercado Modelo Y Bolivar
+1038;Montevideo;Villa Española
+1039;Montevideo;Las Canteras
+1040;Montevideo;Maroñas Parque Guarani
+1041;Montevideo;Casavalle
+1042;Montevideo;Manga
+1043;Montevideo;Piedras Blancas
+1044;Montevideo;Las Acacias
+1045;Montevideo;Cerrito
+1046;Montevideo;Manga Toledo Chico
+1047;Montevideo;Colon Sureste Abayuba
+1048;Montevideo;Peñarol Lavalleja
+1049;Montevideo;Colon Centro Y Noroeste
+1050;Montevideo;Lezica Melilla
+1051;Montevideo;Paso De La Arena
+1052;Montevideo;Casabo Pajas Blancas
+1053;Montevideo;La Paloma Tomkinson
+1054;Montevideo;Cerro
+1055;Montevideo;Sayago
+1056;Montevideo;Paso De Las Duranas
+1057;Montevideo;Conciliacion
+1058;Montevideo;Villa Garcia Manga Rural
+1059;Montevideo;Punta Rieles Bella Italia
+1060;Montevideo;Jardines Del Hipodromo
+1061;Montevideo;Bañados De Carrasco
+1062;Montevideo;Flor De Maroñas
+1063;Canelones;Santa Teresita
+1064;Canelones;Colonia Nicolich
+1065;Canelones;Paso Carrasco
+1066;Canelones;San Jose De Carrasco
+1067;Canelones;Parque Carrasco
+1068;Canelones;Aeropuerto Internacional De Carrasco
+1069;Canelones;Shangrila
+1070;Canelones;El Bosque
+1071;Canelones;Barrio Obrero
+1072;Canelones;Lagomar
+1073;Canelones;Lago Jardin Del Bosque
+1074;Canelones;Barra De Carrasco
+1075;Canelones;Empalme Nicolich
+1076;Canelones;Parque Miramar
+1077;Canelones;Pinamar Y Pinepark
+1078;Canelones;Fortin De Santa Rosa
+1079;Canelones;Salinas
+1080;Canelones;Pine Park
+1081;Canelones;Neptunia
+1082;Canelones;Rincon De Pando
+1083;Canelones;Marindia
+1084;Canelones;Pinamar
+1085;Canelones;Villa Juana
+1086;Canelones;Estacion Atlantida
+1087;Canelones;Las Toscas
+1088;Canelones;Villa Argentina
+1089;Canelones;La Chinchilla
+1090;Canelones;City Golf
+1091;Canelones;Atlantida
+1092;Canelones;Bello Horizonte
+1093;Canelones;Parque Del Plata
+1094;Canelones;Costa Azul
+1095;Canelones;Las Vegas
+1096;Canelones;Estacion La Floresta
+1097;Canelones;La Floresta
+1098;Canelones;Guazuvira Nuevo
+1099;Canelones;Guazuvira
+1100;Canelones;Araminda
+1101;Canelones;Biarritz
+1102;Canelones;La Tuna
+1103;Canelones;Capilla De Cella
+1104;Canelones;Cuchilla Alta Y El Galeon
+1105;Canelones;Piedras De Afilar
+1106;Canelones;San Luis
+1107;Canelones;Estacion Piedras De Afilar
+1108;Canelones;Jaureguiberry
+1109;Canelones;Argentino
+1110;Canelones;Cuchilla Alta
+1111;Canelones;Santa Ana
+1112;Canelones;Santa Lucia Del Este
+1113;Canelones;B.H.U.
+1114;Canelones;Los Titanes
+1115;Canelones;El Galeon
+1116;Canelones;Villa Aeroparque
+1117;Canelones;Cumbres De Carrasco
+1118;Canelones;Capitan Juan Antonio Artigas
+1119;Canelones;Rincon De Carrasco
+1120;Canelones;Colinas De Carrasco
+1121;Canelones;Joaquin Suarez
+1122;Canelones;Quinta Los Horneros
+1123;Canelones;Villa El Tato
+1124;Canelones;Fracc Sobre Ruta 74
+1125;Canelones;Empalme Olmos
+1126;Canelones;Viejo Molino San Bernardo
+1127;Canelones;Cañada Grande
+1128;Canelones;La Montañesa
+1129;Canelones;Dr. Francisco Soca
+1130;Canelones;Estanque De Pando
+1131;Canelones;Jardines De Pando
+1132;Canelones;Cueva Del Tigre
+1133;Canelones;La Palmita
+1134;Canelones;Las Ranas
+1135;Canelones;Piedritas De Suarez
+1136;Canelones;Puntas De Cañada Grande
+1137;Canelones;Sosa Diaz
+1138;Canelones;Olmos
+1139;Canelones;Piedra Del Toro
+1140;Canelones;Costa De Pando Olmos
+1141;Canelones;Pando
+1142;Montevideo;Toledo Chico
+1143;Canelones;Villa Hadita
+1144;Canelones;Barrio Artigas
+1145;Canelones;Barrio Benzo
+1146;Canelones;Barrio Los Panoramas
+1147;Canelones;Barrio Pretti
+1148;Canelones;Barrio Santa Rita
+1149;Canelones;Barrio Traverso
+1150;Canelones;Barrio Villa Murcia
+1151;Canelones;Lomas De Toledo
+1152;Canelones;Los Hornos
+1153;Canelones;Nataly
+1154;Canelones;Villa Fortuna
+1155;Canelones;Villa Huertos De Toledo
+1156;Canelones;Casarino
+1157;Canelones;San Andres
+1158;Canelones;Villa Crespo
+1159;Canelones;Puntas De Toledo
+1160;Canelones;Villa Crespo
+1161;Canelones;Seis Hermanos
+1162;Canelones;Villa Juanita
+1163;Canelones;Villa Marina
+1164;Canelones;Villa Molfino
+1165;Canelones;Villa Prados De Toledo
+1166;Canelones;Villa Valverde
+1167;Canelones;Villa Los Alpes
+1168;Canelones;Villa San Felipe
+1169;Canelones;Toledo
+1170;Canelones;San Andres
+1171;Canelones;Fracc. Cno. Andaluz Y R.84
+1172;Canelones;Villa San Jose
+1173;Canelones;Ciudad De La Costa
+1174;Canelones;Lomas De Solymar
+1175;Canelones;Lomas De Carrasco
+1176;Canelones;Pinares De Solymar
+1177;Canelones;El Bosque De Solymar
+1178;Canelones;Montes De Solymar
+1179;Canelones;Las Higueritas
+1180;Canelones;Quintas Del Bosque
+1181;Canelones;Colinas De Solymar
+1182;Canelones;Carmel
+1183;Canelones;El Pinar
+1184;Canelones;Parque De Solymar
+1185;Canelones;Barrio San Cristobal
+1186;Canelones;Haras Del Lago
+1187;Canelones;Medanos De Solymar
+1188;Canelones;La Asuncion
+1189;Canelones;Solymar
+1190;Canelones;Altos De La Tahona
+1191;Canelones;Progreso
+1192;Canelones;Vista Linda
+1193;Canelones;El Dorado
+1194;Canelones;Villa Foresti
+1195;Canelones;Barrio Copola
+1196;Canelones;Villa Felicidad
+1197;Canelones;Villa Paz S.A.
+1198;Canelones;Barrio Remanso
+1199;Canelones;Parada Cabrera
+1200;Canelones;Fracc. Progreso
+1201;Canelones;Las Piedras
+1202;Canelones;Puntas De Canelon Chico
+1203;Canelones;Canelon Chico Al Centro
+1204;Canelones;Camino Dodera
+1205;Canelones;Barrio La Lucha
+1206;Canelones;La Paz
+1207;Canelones;Instituto Adventista
+1208;Canelones;Costa Y Guillamon
+1209;Canelones;El Colorado
+1210;Canelones;Poquitos
+1211;Canelones;Paso Del Colorado
+1212;Canelones;Santos Lugares
+1213;Canelones;Cuchilla De Sierra
+1214;Canelones;Villa San Cono
+1215;Canelones;Canelon Chico De Progreso
+1216;Canelones;Colorado Chico
+1217;Maldonado;Faro Jose Ignacio
+1218;Maldonado;San Rafael - El Placer
+1219;Maldonado;La Juanita
+1220;Maldonado;El Chorro
+1221;Maldonado;Manantiales
+1222;Maldonado;Ocean Park
+1223;Maldonado;La Barra
+1224;Maldonado;Sauce De Portezuelo
+1225;Maldonado;Los Corchos
+1226;Maldonado;Arenas De Jose Ignacio
+1227;Maldonado;Maldonado
+1228;Maldonado;Barrio Kennedy
+1229;Maldonado;Sarandi Del Mataojo
+1230;Maldonado;La Capuera
+1231;Maldonado;Balneario Buenos Aires
+1232;Maldonado;Chihuahua
+1233;Maldonado;Cerro Pelado
+1234;Maldonado;Punta Del Este
+1235;Maldonado;Villa Delia
+1236;Maldonado;Pinares - Las Delicias
+1237;Maldonado;Laguna Blanca
+1238;Maldonado;Eden Rock
+1239;Maldonado;La Sonrisa
+1240;Maldonado;Punta Ballena
+1241;Maldonado;Rincon Del Indio
+1242;Maldonado;Zanja Del Tigre
+1243;Maldonado;Mataojo
+1244;Maldonado;Laguna Del Sauce
+1245;Maldonado;Rincon De Los Sosa
+1246;Maldonado;San Juan Del Este
+1247;Maldonado;Portezuelo
+1248;Maldonado;Puntas De Mataojo
+1249;Maldonado;Puntas De Pan De Azucar
+1250;Maldonado;Lago De Los Cisnes
+1251;Maldonado;Barra Del Sauce
+1252;Maldonado;El Eden
+1253;Maldonado;Los Aromos
+1254;Maldonado;El Tesoro
+1255;Maldonado;Canteras De Marelli
+1256;Maldonado;Las Cumbres
+1257;Maldonado;Faro Jose Ignacio Norte
+1258;Maldonado;Barrio Hipodromo
+1259;Maldonado;San Vicente
+1260;Maldonado;Santa Monica
+1261;Maldonado;Buenos Aires
+1262;Maldonado;Playa Verde
+1263;Maldonado;Las Flores
+1264;Maldonado;Piriapolis
+1265;Maldonado;Bella Vista
+1266;Maldonado;Playa Grande
+1267;Maldonado;La Falda
+1268;Maldonado;Las Flores - Estacion
+1269;Maldonado;Solis
+1270;Maldonado;Punta Colorada
+1271;Maldonado;Punta Negra
+1272;Maldonado;Barra De Portezuelo
+1273;Maldonado;San Francisco
+1274;Maldonado;Colonia J. Suarez
+1275;Maldonado;Playa Hermosa
+1276;Maldonado;Gregorio Aznarez
+1277;Maldonado;Cerros Azules
+1278;Maldonado;Pan De Azucar
+1279;Maldonado;Nueva Carrara
+1280;Maldonado;La Sierra
+1281;Maldonado;Puntas De La Sierra
+1282;Maldonado;Gerona
+1283;Maldonado;Pueblo Solis
+1284;Maldonado;Ruta 37 Y 9
+1285;Maldonado;Garzon
+1286;Maldonado;San Carlos
+1287;Maldonado;El Quijote
+1288;Maldonado;Parque Medina
+1289;Maldonado;Carape
+1290;Maldonado;Puntas De Jose Ignacio
+1291;Maldonado;Paso De La Cantera
+1292;Maldonado;Molles De Garzon
+1293;Maldonado;Costas De Jose Ignacio
+1294;Maldonado;Puntas Del Campanera
+1295;Maldonado;Jose Ignacio
+1296;Maldonado;Las Cañas
+1297;Maldonado;Arroyito De Medina
+1298;Maldonado;Corte De La Leña
+1299;Maldonado;Partido Norte
+1300;Maldonado;Guardia Vieja
+1301;Maldonado;Abra De Perdomo
+1302;Maldonado;Partido Oeste
+1303;Maldonado;Carlos Cal
+1304;Maldonado;Alfaro
+1305;Maldonado;Los Ceibos
+1306;Maldonado;Pago De La Paja
+1307;Maldonado;Cañada Bellaca
+1308;Maldonado;Cañada De La Cruz
+1309;Maldonado;Aigua
+1310;Lavalleja;Marmaraja
+1311;Lavalleja;Paso De Los Troncos
+1312;Lavalleja;Pororo
+1313;Lavalleja;Puente De Marmaraja
+1314;Lavalleja;Sauce De Aigua
+1315;Maldonado;Valdivia
+1316;Maldonado;Alferez
+1317;Maldonado;Salamanca
+1318;Maldonado;Sarandi De Aigua
+1319;Maldonado;Paso De Los Talas
+1320;Maldonado;Sauce De Aigua
+1321;Maldonado;Coronilla
+1322;Rocha;Rocha
+1323;Rocha;Puerto De Los Botes
+1324;Rocha;La Ribiera
+1325;Rocha;19 De Abril
+1326;Rocha;India Muerta
+1327;Rocha;Sarandi De La India Muerta
+1328;Rocha;Puntas De Don Carlos
+1329;Rocha;Lomas
+1330;Rocha;Arbolito
+1331;Rocha;Kilometro 18
+1332;Rocha;La Centinela
+1333;Rocha;La Sierra
+1334;Rocha;Sierra De Los Rocha
+1335;Rocha;Los Cerrillos
+1336;Rocha;Garzon Arriba
+1337;Rocha;Sauce De Rocha
+1338;Rocha;Picada Tolosa
+1339;Rocha;El Canelon
+1340;Rocha;Garzon Al Medio
+1341;Rocha;Cuchilla De Garzon
+1342;Rocha;Garzon Abajo
+1343;Rocha;Paso Doña Rosa
+1344;Rocha;Paralle
+1345;Rocha;18 De Julio
+1346;Rocha;Chuy
+1347;Rocha;Capacho
+1348;Rocha;La Coronilla
+1349;Rocha;Los Indios
+1350;Rocha;Fortin De San Miguel
+1351;Rocha;Barra Del Chuy
+1352;Rocha;Puimayen
+1353;Rocha;La Fortaleza De Santa Teresa
+1354;Rocha;Samuel
+1355;Rocha;Barrio Pereira
+1356;Rocha;Barrancas De La Coronilla
+1357;Rocha;Barrio Carpacho
+1358;Rocha;Palmares De La Coronilla
+1359;Rocha;Castillos
+1360;Rocha;Barra De Valizas
+1361;Rocha;Barrio Torres
+1362;Rocha;Aguas Dulces
+1363;Rocha;Cabo Polonio
+1364;Rocha;Punta Del Diablo
+1365;Rocha;Punta Palmar
+1366;Rocha;Cerro De Los Rocha
+1367;Rocha;Palmar
+1368;Rocha;Vuelta Del Palmar
+1369;Rocha;Barrio Cardozo
+1370;Rocha;Palmar De Castillos
+1371;Rocha;Rincon De Los Olivera
+1372;Rocha;Cerro De Pescadores
+1373;Rocha;Rincon De Valizas
+1374;Rocha;Oratorio
+1375;Rocha;Plano 291
+1376;Rocha;Puente Valizas
+1377;Rocha;La Esmeralda
+1378;Rocha;Paso Del Bañado
+1379;Rocha;Velazquez
+1380;Rocha;Cebollati
+1381;Rocha;San Luis Al Medio
+1382;Maldonado;Los Talas
+1383;Rocha;Lascano
+1384;Rocha;Alferez
+1385;Rocha;Barra Isla Negra
+1386;Rocha;Isla Negra
+1387;Rocha;Paso Del Ombu
+1388;Rocha;Paso De Lopez
+1389;Rocha;Quebracho
+1390;Rocha;Barrio Porvenir
+1391;Rocha;Abra De Alferez
+1392;Rocha;Los Ajos
+1393;Rocha;El Chimango
+1394;Rocha;Colonia Greissing
+1395;Rocha;Empalme De Velazquez
+1396;Rocha;La Tuna
+1397;Rocha;Cuchilla Del Arbolito
+1398;Maldonado;Rincon De Aparicio
+1399;Rocha;Punta Cebollati
+1400;Rocha;Costas De Cebollati
+1401;Rocha;Costa Azul
+1402;Rocha;La Aguada
+1403;Rocha;Balneario Pueblo Nuevo
+1404;Rocha;San Sebastian
+1405;Rocha;Pueblo Nuevo
+1406;Rocha;La Pedrera
+1407;Rocha;Oceania Del Polonio
+1408;Rocha;San Antonio
+1409;Rocha;Puerto La Paloma
+1410;Rocha;Antoniopolis
+1411;Rocha;Punta Rubia
+1412;Rocha;Tajamares De La Pedrera
+1413;Rocha;La Aguada Y Costa Azul
+1414;Rocha;San Sebastian De La Pedrera
+1415;Rocha;Arachania
+1416;Lavalleja;Polanco Norte
+1417;Lavalleja;Consejo Del Niño
+1418;Lavalleja;Colon
+1419;Lavalleja;Villa Del Rosario
+1420;Lavalleja;Estacion Solis
+1421;Lavalleja;El Alto
+1422;Lavalleja;La Plata
+1423;Lavalleja;Vejigas
+1424;Lavalleja;Las Achiras
+1425;Lavalleja;Rincon De Mariscala
+1426;Lavalleja;Rincon De Silva
+1427;Lavalleja;Los Tapes
+1428;Lavalleja;Paso De Mesa
+1429;Lavalleja;Barriga Negra
+1430;Lavalleja;Tapes Grande
+1431;Lavalleja;Tapes Chico
+1432;Lavalleja;Puntas De Barriga Negra
+1433;Lavalleja;Cerro Pelado
+1434;Lavalleja;Marco De Los Reyes
+1435;Lavalleja;Ladrillos
+1436;Lavalleja;Manguera Azul
+1437;Lavalleja;Polanco
+1438;Lavalleja;Polanco Sur
+1439;Lavalleja;Puntas De Polanco
+1440;Lavalleja;Chamame
+1441;Lavalleja;Espuelitas
+1442;Lavalleja;Sierras Blancas
+1443;Lavalleja;La Cuchilla
+1444;Lavalleja;Costas Del Soldado
+1445;Lavalleja;Casupa Chico
+1446;Lavalleja;Puntas De Santa Lucia

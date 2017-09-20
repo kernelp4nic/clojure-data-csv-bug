@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module cursive.leiningen.project.LeiningenProjectsManager.displayName="data-csv-reader-bug:0.1.0-SNAPSHOT" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: ankha:0.1.5.1-64423e" level="project" />
+    <orderEntry type="library" name="Leiningen: aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: aprint:0.1.5" level="project" />
+    <orderEntry type="library" name="Leiningen: args4j:2.0.16" level="project" />
+    <orderEntry type="library" name="Leiningen: asm:3.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: clj-time:0.5.0" level="project" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.4" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cemerick/austin:0.1.3" level="project" />
+    <orderEntry type="library" name="Leiningen: com.cemerick/piggieback:0.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: com.climate/claypoole:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.code.findbugs/jsr305:1.3.9" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.guava/guava:14.0.1" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.javascript/closure-compiler:v20130603" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.protobuf/protobuf-java:2.4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Leiningen: compliment:0.2.7" level="project" />
+    <orderEntry type="library" name="Leiningen: cursive/datomic-stubs:0.9.5153" level="project" />
+    <orderEntry type="library" name="Leiningen: defprecated:0.1.3" level="project" />
+    <orderEntry type="library" name="Leiningen: eftest:0.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: fipp:0.6.3" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.class.inheritance:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common.checks:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common.error:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common.hash:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common.primitives:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common.string:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.common:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.data.map:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.data.nested:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.expression.shorthand:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.function.dispatch:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.namespace.import:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.namespace.resolve:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.object:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.protocol.map:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.protocol.object:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.protocol.string:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.reflect:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/hara.string.case:2.3.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.classloader:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.debug:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.inject:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.lein:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.maven:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.reflection:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa.reimport:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/vinyasa:0.4.7" level="project" />
+    <orderEntry type="library" name="Leiningen: im.chit/wu.kong:0.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: io.aviso/pretty:0.1.8" level="project" />
+    <orderEntry type="library" name="Leiningen: javax.annotation/jsr250-api:1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: javax.enterprise/cdi-api:1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: javax.inject:1" level="project" />
+    <orderEntry type="library" name="Leiningen: jline:2.12" level="project" />
+    <orderEntry type="library" name="Leiningen: joda-time:2.2" level="project" />
+    <orderEntry type="library" name="Leiningen: mvxcvi/arrangement:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: mvxcvi/puget:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: myguidingstar/clansi:1.3.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.httpcomponents/httpclient:4.3.5" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.httpcomponents/httpcore:4.3.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.maven.wagon/wagon-provider-api:1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.maven/maven-aether-provider:3.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.maven/maven-model-builder:3.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.maven/maven-model:3.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.maven/maven-repository-metadata:3.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.8.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojurescript:0.0-2014" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.async:0.2.374" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.cache:0.6.4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.memoize:0.5.8" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.rrb-vector:0.0.11" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.csv:0.1.4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.json:0.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/data.priority-map:0.0.4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/google-closure-library-third-party:0.0-20130212-95c19e7f0f5f" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/google-closure-library:0.0-20130212-95c19e7f0f5f" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer.jvm:0.6.9" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.analyzer:0.6.7" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.namespace:0.2.10" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.12" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.reader:0.8.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.plexus/plexus-classworlds:2.4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.plexus/plexus-component-annotations:1.5.5" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.plexus/plexus-interpolation:1.16" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.plexus/plexus-utils:3.0.10" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-connector-basic:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-impl:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-spi:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-transport-classpath:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-transport-file:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-transport-http:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-transport-wagon:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.aether/aether-util:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.sisu/org.eclipse.sisu.inject:0.0.0.M2a" level="project" />
+    <orderEntry type="library" name="Leiningen: org.eclipse.sisu/org.eclipse.sisu.plexus:0.0.0.M2a" level="project" />
+    <orderEntry type="library" name="Leiningen: org.json/json:20090211" level="project" />
+    <orderEntry type="library" name="Leiningen: org.mozilla/rhino:1.7R4" level="project" />
+    <orderEntry type="library" name="Leiningen: org.ow2.asm/asm-all:4.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.slf4j/jcl-over-slf4j:1.6.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.slf4j/slf4j-api:1.6.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.sonatype.sisu/sisu-guice:3.1.0:no_aop" level="project" />
+    <orderEntry type="library" name="Leiningen: progrock:0.1.1" level="project" />
+    <orderEntry type="library" name="Leiningen: proto-repl:0.3.1" level="project" />
+    <orderEntry type="library" name="Leiningen: quickie:0.4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: spyscope:0.1.4" level="project" />
+    <orderEntry type="library" name="Leiningen: version-clj:0.1.2" level="project" />
+  </component>
+</module>
